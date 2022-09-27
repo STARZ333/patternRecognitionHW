@@ -1,0 +1,2 @@
+# patternRecognitionHW
+patternRecognitionHW
